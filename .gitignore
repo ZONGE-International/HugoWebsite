@@ -20,3 +20,6 @@ node_modules/
 # Backup Files
 *.bak
 *.swp
+
+# Hugo Cache (if using Hugo Modules)
+hugo_cache/
