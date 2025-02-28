@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+title = "Zonge International"
+baseURL = "https://zonge-international.github.io/HugoWebsite/"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 resourceDir = "../resources"
 
@@ -53,5 +53,5 @@ networks = [
 ]
 
 [params.ananke.social.linkedin]
-username = "zonge-international"
+profilelink = "https://www.linkedin.com/company/zonge-international/"
 
