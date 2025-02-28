@@ -1,0 +1,22 @@
+# Hugo Generated Files
+public/
+resources/
+.hugo_build.lock
+
+# Temporary Files and System Specific
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+
+# Node Modules (if using npm or Yarn)
+node_modules/
+
+# Log Files
+*.log
+
+# Backup Files
+*.bak
+*.swp
