@@ -6,7 +6,8 @@ resourceDir = "../resources"
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
-
+relativeURLs = true
+canonifyURLs = true
 
 [services.googleAnalytics]
 id = ''
