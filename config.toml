@@ -6,8 +6,6 @@ resourceDir = "../resources"
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
-relativeURLs = true
-canonifyURLs = true
 
 [services.googleAnalytics]
 id = ''
@@ -32,7 +30,7 @@ mainSections = ["post"]
 text_color = ""
 author = "Zonge International" # default author, override via `author` in a posts front matter
 favicon = ""
-site_logo = "/images/logo.png"
+site_logo = "HugoWebsite//images/logo.png"
 description = "EM Geophysics"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-blue"
